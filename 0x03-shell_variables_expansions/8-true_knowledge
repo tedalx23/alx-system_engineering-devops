@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "%d\n" "$((TRUEKNOWLEDGEi+128))"
+echo $(($TRUEKNOWLEDGEi+128))
